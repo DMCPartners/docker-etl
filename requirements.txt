@@ -1,7 +1,7 @@
 pymongo==3.7.2
 python-dotenv==0.10.0
 dnspython==1.16.0
-requests==2.21.0
+requests==2.31.0
 schedule==0.6.0
 jieba==0.39
 psycopg2==2.7.7
